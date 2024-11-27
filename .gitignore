@@ -1,0 +1,11 @@
+# Misc
+.DS_Store
+
+# NodeJS
+node_modules/
+
+# Build
+dist/
+
+# Logs
+*.log*
