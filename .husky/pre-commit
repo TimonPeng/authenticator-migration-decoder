@@ -1,0 +1,5 @@
+pnpm lint
+
+pnpm ncu -t minor
+pnpm i
+git add pnpm-lock.yaml
